@@ -1,0 +1,11 @@
+---
+title: New Post
+date: 2023-05-17 14:00:00 +0100
+categories: [Blogging, Demo]
+tags: [firstpost]     # TAG names should always be lowercase
+author: <author_id>
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
