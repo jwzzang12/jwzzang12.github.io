@@ -1,6 +1,6 @@
 ---
 title: Github commit message tips
-date: 2023-05-17 15:00:00 +0100
+date: 2023-05-17 15:30:00 +0100
 categories: [Coding, Git]
 tags: [github] # TAG names should always be lowercase
 author: <author_id>
