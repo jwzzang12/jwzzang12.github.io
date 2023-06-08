@@ -6,8 +6,6 @@ tags: [algorithms] # TAG names should always be lowercase
 author: <author_id>
 ---
 
-### Highest and Lowest
-
 ```javascript
 // soultion 1
 function highAndLow(numbers) {

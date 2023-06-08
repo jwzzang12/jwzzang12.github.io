@@ -6,8 +6,6 @@ tags: [algorithms] # TAG names should always be lowercase
 author: <author_id>
 ---
 
-### Beginner Series #3 Sum of Numbers
-
 ```javascript
 //Gauss summation
 const GetSum = (a, b) => {

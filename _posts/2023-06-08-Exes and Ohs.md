@@ -6,8 +6,6 @@ tags: [algorithms] # TAG names should always be lowercase
 author: <author_id>
 ---
 
-### Exes and Ohs
-
 ```javascript
 // my solution
 function XO(str) {
