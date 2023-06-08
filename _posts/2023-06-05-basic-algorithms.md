@@ -1,6 +1,6 @@
 ---
-  title: Basic Algorithm Scripting 01
-  date: 2023-06-05 16:00:00 +0100
+title: Basic Algorithm Scripting 01
+date: 2023-06-05 16:00:00 +0100
 categories: [Algorithms, JavaScript]
 tags: [algorithms] # TAG names should always be lowercase
 author: <author_id>
