@@ -1,5 +1,5 @@
 ---
-title: Redirect vs Rewrite
+title: Redirect vs Rewrites
 date: 2023-07-19 13:30:00 +0100
 categories: [Coding, Next.js]
 tags: [nextjs] # TAG names should always be lowercase
