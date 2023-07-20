@@ -2,7 +2,7 @@
 title: TypeScript Fundamental
 date: 2023-06-07 23:00:00 +0100
 categories: [Coding, TypeScript]
-tags: [typeScript] # TAG names should always be lowercase
+tags: [typescript] # TAG names should always be lowercase
 author: <author_id>
 ---
 
