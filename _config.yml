@@ -20,7 +20,7 @@ timezone: GB
 
 title: Jiwon # the main title
 
-tagline: velog가 해외에선 안될줄이야 # it will display as the sub-title
+tagline: Record of my study # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
