@@ -15,16 +15,28 @@ const add: Add = (a, b) => a + b;
 ```
 
 - the type signature of a function or method when defining its parameters and return type
+- It describes the structure of the function without providing the actual implementation
 
 ## Overloading
 
 - the function has multiple call signatures
 
-polymorphism
+```tsx
+function processInput(input: number): number;
+function processInput(input: string): string;
+function processInput(input: any): any {
+  if (typeof input === "number") {
+    return input * 2;
+  } else if (typeof input === "string") {
+    return `Hello, ${input}!`;
+  } else {
+    return input;
+  }
+}
 
-overloading
-
-generics
+const result1 = processInput(5); // result1 will be 10 (number)
+const result2 = processInput("John"); // result2 will be "Hello, John!" (string)
+```
 
 ## Polymorphism
 
